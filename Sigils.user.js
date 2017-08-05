@@ -3,7 +3,7 @@
 // @namespace    https://github.com/DATrickster/WardMyDash
 // @version      0.38
 // @description  Adds warding sigils to your dashboard.
-// @author       The Trickster
+// @author       Tricky the Squirrel
 // @include      *://www.tumblr.com/dashboard
 // @updateURL    https://github.com/DATrickster/WardMyDash/blob/master/Sigils.user.js
 // @downloadURL  https://github.com/DATrickster/WardMyDash/blob/master/Sigils.user.js
