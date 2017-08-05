@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ward My Dash
 // @namespace    https://github.com/DATrickster/WardMyDash
-// @version      0.37
+// @version      0.38
 // @description  Adds warding sigils to your dashboard.
 // @author       The Trickster
 // @include      *://www.tumblr.com/dashboard
