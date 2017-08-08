@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ward My Dash
 // @namespace    https://github.com/DATrickster/WardMyDash
-// @version      0.40
+// @version      0.41
 // @description  Adds warding sigils to your dashboard.
 // @author       Tricky the Squirrel
 // @include      *://www.tumblr.com/dashboard
@@ -15,4 +15,4 @@ var sDiv = document.createElement('div');
 sDiv.id = 'sigils';
 document.getElementsByTagName('body')[0].appendChild(sDiv);
 
-document.getElementById('sigils').innerHTML += '<image style="position:fixed; left:0%; top:8.5%; z-index: 9999;" src="https://raw.githubusercontent.com/DATrickster/WardMyDash/master/Sigils/Guilt.png"></image><image style="position:fixed; right:0%; top:8.5%; z-index: 9999;" src="https://raw.githubusercontent.com/DATrickster/WardMyDash/master/Sigils/Threats.png"></image><image style="position:fixed; left:0%; bottom:0%; z-index: 9999;" src="https://raw.githubusercontent.com/DATrickster/WardMyDash/master/Sigils/Luck.png"></image><image style="position:fixed; right:0%; bottom:0%; z-index: 9999;" src="https://raw.githubusercontent.com/DATrickster/WardMyDash/master/Sigils/Spirits.png"></image>';
+document.getElementById('sigils').innerHTML += '<image style="position:fixed; left:0%; top:8.5%; z-index: 9999;" src="https://raw.githubusercontent.com/DATrickster/WardMyDash/master/GSigils/Guilt.png"></image><image style="position:fixed; right:0%; top:8.5%; z-index: 9999;" src="https://raw.githubusercontent.com/DATrickster/WardMyDash/master/GSigils/Threats.png"></image><image style="position:fixed; left:0%; bottom:0%; z-index: 9999;" src="https://raw.githubusercontent.com/DATrickster/WardMyDash/master/GSigils/Luck.png"></image><image style="position:fixed; right:0%; bottom:0%; z-index: 9999;" src="https://raw.githubusercontent.com/DATrickster/WardMyDash/master/GSigils/Spirits.png"></image>';
